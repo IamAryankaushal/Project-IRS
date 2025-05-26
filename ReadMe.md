@@ -1,4 +1,4 @@
-# IRS Migration to AWS Cloud
+# Indian Railways System Migration to AWS Cloud
 
 Referring to the Presentation File and the Report file for this project is highly recommended to fully understand the idea behind this.
 
