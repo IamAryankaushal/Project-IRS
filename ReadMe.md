@@ -1,5 +1,7 @@
 # IRS Migration to AWS Cloud
 
+Referring to the Presentation File and the Report file for this project is highly recommended to fully understand the idea behind this.
+
 ## Overview
 
 This project outlines the **migration of the Indian Railways System (IRS)** from a traditional on-premises infrastructure to a **scalable, secure, and cost-efficient AWS Cloud platform**. Indian Railways, being one of the largest railway networks in the world, faces increasing demand, performance bottlenecks, and security risks. This migration aims to modernize its IT backbone by leveraging AWS services to handle massive workloads with real-time processing, advanced analytics, and improved disaster recovery.
